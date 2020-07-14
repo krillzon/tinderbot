@@ -1,3 +1,3 @@
-username = 'kribbe1234@hotmail.com'
-password = '1495821as'
+username = 'email'
+password = 'password'
 message = 'Hej'
